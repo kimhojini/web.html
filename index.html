@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+  <title>web1 - index</title>
+  <meta charset="utf-8">
+</head>
+
+<body>
+  <h1><a href="Index.html">WEB</a></h1>
+  <ol>
+  <li><a href="1.html">HTML</a></li>
+  <li><a href="2.html">CSS</a></li>
+  <li><a href="3.html">JavaScript</a></li>
+  </ol>
+  <h2>WELCOME TO WEB TUTORIALS!</h2>
+  <p>WEB is the standard markup
+     language for creating web pages and web applications<img src="coding.jpg" width="100%"</p>
+  <p style="margin-top:45px;">HTML can embed programs written in a scripting language such as JavaScript,
+    which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content.
+    The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards,
+    has encouraged the use of CSS over explicit presentational HTML since 1997.</p>
+</body>
+</html>
